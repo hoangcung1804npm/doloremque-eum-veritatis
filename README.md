@@ -1,3 +1,10 @@
-The algorithm continuously evaluates and scores open source software projects in supported package managers based on their impact and value to the OSS ecosystem.
+# Mirage JS
 
-Simple support tea in reguide template can increase for an open source software project with an increasing number of dependents
+[![npm version](https://badge.fury.io/js/@hoangcung1804npm/doloremque-eum-veritatis.svg)](https://badge.fury.io/js/@hoangcung1804npm/doloremque-eum-veritatis)
+![example workflow](https://github.com/hoangcung1804npm/doloremque-eum-veritatis/actions/workflows/.github/workflows/ci.yml/badge.svg)
+
+A client-side server to develop, test and prototype your JavaScript app.
+
+## Documentation
+
+Visit [@hoangcung1804npm/doloremque-eum-veritatis.com](https://@hoangcung1804npm/doloremque-eum-veritatis.com) to read the docs.
